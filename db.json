@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "jmeno": "Martin"
+      "jmeno": "Martin",
       "prijmeni": "Kopsa"
     }
   ],
